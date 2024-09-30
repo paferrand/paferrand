@@ -8,6 +8,8 @@ I am Pierre-Antoine Ferrand a **senior fullstack developer** based in **Marseill
 
 🧠 With over 10 years of experience in Web development, I thrive on solving complex problems and optimizing applications to be robust, lightweight, fast, and reliable.
 
+🦖 I commited a lot of lines of PHP code, and I can help you to build the best PHP 8 application with **[Symfony](https://symfony.com/)** and [Phalcon](https://phalcon.io/) 
+
 🔭 I am digging with **[Vue3](https://github.com/vuejs/)** and **[Nuxt.js](https://github.com/nuxt/nuxt)**
 
 🌱  I'm currently taking the **Linux Foundation Node.JS Application Development** course to improve my **[Node.js](https://github.com/nodejs/node)** skills.
